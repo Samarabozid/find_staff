@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "44266678216",
+    "firebase_url": "https://find-staff.firebaseio.com",
+    "project_id": "find-staff",
+    "storage_bucket": "find-staff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44266678216:android:ae3baeca1090e05c3442fd",
+        "android_client_info": {
+          "package_name": "find.staff.findstaff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44266678216-08fhv973rslij0a53od9flot4n9ifvrg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "find.staff.findstaff",
+            "certificate_hash": "8aedbf1b51ba031e3359d3e811b9d100827541e6"
+          }
+        },
+        {
+          "client_id": "44266678216-vt8peu2nta87ibkqk47iukcefm71q5ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3TTo_-eZnAy36qhee9HmYaVh60SmA3aU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44266678216-vt8peu2nta87ibkqk47iukcefm71q5ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

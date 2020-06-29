@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Find Staff</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_to_account">Login To Account</string>
+    <string name="enter_your_email_and_password">Enter your email and password</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="my_staff">MY STAFF</string>
+    <string name="find_staff">FIND STAFF</string>
+    <string name="map_key" translatable="false">AIzaSyB_qsP8AOP_P0MdlPz-48TDaJYjTP3vbjo</string>
+    <string name="logout">Logout</string>
+    <string name="map">map</string>
+</resources>
